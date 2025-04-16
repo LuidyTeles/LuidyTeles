@@ -24,7 +24,7 @@
 
 Me chamo **Luidy Teles Araujo**, tenho 20 anos, sou de São Paulo e atualmente estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas** pela Anhanguera.
 
-Iniciei minha jornada com formação técnica em **Operação de Microcomputadores** e desde então, são mais de **4 anos de experiência com desenvolvimento web**. Trabalho como **desenvolvedor full stack**, mas meu coração bate mais forte pelo **Front-end**, especialmente com **React.js**.
+Iniciei minha jornada com formação técnica em **Operação de Microcomputadores** e desde então, são mais de **4 anos de experiência como analista de ecomerce Pleno atualmente, mas tenho grande experiência com desenvolvimento web**. Trabalho como **desenvolvedor full stack**, mas meu coração bate mais forte pelo **Front-end**, especialmente com **React.js**.
 
 Sou movido por desafios, apaixonado por tecnologia e foco muito em **UX/UI**, utilizando ferramentas como **Figma** para criar interfaces modernas, intuitivas e funcionais.
 
