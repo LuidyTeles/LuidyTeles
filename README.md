@@ -22,11 +22,13 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-Me chamo **Luidy Teles Araujo**, tenho 20 anos, sou de São Paulo e atualmente estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas** pela Anhanguera.
+Me chamo Luidy Teles Araujo, tenho 20 anos, sou de São Paulo e estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pela Anhanguera.
 
-Iniciei minha jornada com formação técnica em **Operação de Microcomputadores** e desde então, são mais de **4 anos de experiência como analista de ecomerce Pleno atualmente, mas tenho grande experiência com desenvolvimento web**. Trabalho como **desenvolvedor full stack**, mas meu coração bate mais forte pelo **Front-end**, especialmente com **React.js**.
+Minha jornada na tecnologia começou com um curso técnico em Operação de Microcomputadores (SENAI) e, desde então, venho acumulando mais de 4 anos de experiência na área de desenvolvimento web, atuando atualmente como Analista de E-commerce Pleno. Ao longo desse tempo, desenvolvi uma boa bagagem em desenvolvimento web, com foco em desenvolvimento full stack — embora o Front-end seja, sem dúvida, minha maior paixão.
 
-Sou movido por desafios, apaixonado por tecnologia e foco muito em **UX/UI**, utilizando ferramentas como **Figma** para criar interfaces modernas, intuitivas e funcionais.
+Gosto de criar experiências digitais marcantes, priorizando sempre a usabilidade e o visual. Trabalho com React.js e sou familiarizado com UX/UI, utilizando ferramentas como o Figma para desenhar interfaces modernas, intuitivas e funcionais.
+
+Sou movido por desafios e apaixonado por tecnologia sempre em busca de aprender algo novo e evoluir como profissional e como pessoa.
 
 ---
 
