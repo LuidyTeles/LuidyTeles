@@ -22,7 +22,7 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-Me chamo Luidy Teles Araujo, tenho 20 anos, sou de São Paulo e estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pela Anhanguera.
+Me chamo Luidy Teles Araujo, tenho 22 anos, sou de São Paulo e estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pela Anhanguera.
 
 Minha jornada na tecnologia começou com um curso técnico em Operação de Microcomputadores (SENAI) e, desde então, venho acumulando mais de 4 anos de experiência na área de desenvolvimento web, atuando atualmente como Analista de E-commerce Pleno. Ao longo desse tempo, desenvolvi uma boa bagagem em desenvolvimento web, com foco em desenvolvimento full stack — embora o Front-end seja, sem dúvida, minha maior paixão.
 
