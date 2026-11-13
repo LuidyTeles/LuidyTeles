@@ -1,79 +1,30 @@
-# 👋 Olá, eu sou o Luidy Teles
+# Luidy Teles
 
-<p align="center">
-  <b style="font-size: 2em; color: #333;">Desenvolvedor Full Stack</b><br/>
-  <span style="font-size: 1.2em; font-style: italic; color: #555;">
-    Apaixonado por <strong>Front-end</strong>, <strong>UI/UX</strong> e <strong>desafios tecnológicos</strong>
-  </span><br/>
-  <br/>
-  <a href="https://www.linkedin.com/in/luidy-teles/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/luidy_teles/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+**Liderança técnica em e-commerce · Integrações, automação e IA aplicada**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="GIF animado"/>
-</p>
+Na DÉPAYSER, lidero a frente de tecnologia do e-commerce e desenvolvo ferramentas para conectar ERP, marketplaces e loja própria. Também capacito a equipe a usar dados nas rotinas de catálogo, campanhas e atendimento.
 
----
+Curso Engenharia de Software na Universidade Cruzeiro do Sul. Minha experiência anterior inclui desenvolvimento full stack de sistemas de vendas com PHP, Laravel e PostgreSQL.
 
-### 👨🏻‍💻 Sobre mim
+## Projetos em destaque
 
-Me chamo Luidy Teles Araujo, tenho 22 anos, sou de São Paulo e estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pela Anhanguera.
+### Plataforma interna de gestão de e-commerce
 
-Minha jornada na tecnologia começou com um curso técnico em Operação de Microcomputadores (SENAI) e, desde então, venho acumulando mais de 4 anos de experiência na área de desenvolvimento web, atuando atualmente como Analista de E-commerce Pleno. Ao longo desse tempo, desenvolvi uma boa bagagem em desenvolvimento web, com foco em desenvolvimento full stack — embora o Front-end seja, sem dúvida, minha maior paixão.
+Desenvolvi uma plataforma para centralizar a análise da operação no Mercado Livre, Shopee, TikTok Shop e loja própria. A solução conecta dados de pedidos, produtos e estoque e automatiza cálculos de margem, frete e comissões para apoiar decisões de precificação e rentabilidade.
 
-Gosto de criar experiências digitais marcantes, priorizando sempre a usabilidade e o visual. Trabalho com React.js e sou familiarizado com UX/UI, utilizando ferramentas como o Figma para desenhar interfaces modernas, intuitivas e funcionais.
+**Tecnologias:** JavaScript, Node.js, Express, PostgreSQL e integrações com ERP e canais de venda.
 
-Sou movido por desafios e apaixonado por tecnologia sempre em busca de aprender algo novo e evoluir como profissional e como pessoa.
+### Agentes de IA para a operação de e-commerce
 
----
+Criei agentes para análise de mercado, produtos, estoque, catálogo e oportunidades. Os fluxos também apoiam a criação de anúncios, a análise de mídia paga e o SAC. A equipe acompanha os resultados e recebe notificações pelo Slack.
 
-<h1 align="center">🚧 Portfólio em Desenvolvimento 🚧</h1>
+**Tecnologias:** n8n, Slack e integrações com serviços de IA.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/em%20breve-novidades!-ff8800?style=for-the-badge&logo=hourglass&logoColor=white" alt="Em breve novidades!">
-</p>
+## Outros projetos
 
-<p align="center">
-  Estou construindo algo especial projetos com <strong>design moderno</strong>, <strong>alta performance</strong> e uma <strong>experiência de usuário de verdade</strong>. 🧠🚀
-</p>
+- [Player de música em React](https://github.com/LuidyTeles/Player-Musica-ReactJS) — projeto de interface em React.
+- [Studio Ruka](https://github.com/LuidyTeles/Studio-Ruka) — projeto web.
 
-<p align="center">
-  Volte em breve para ver o resultado! 👀
-</p>
+## Contato
 
----
-
-### 🚀 Tecnologias que uso no dia a dia
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" style="margin: 10px;" />
-</div>
-
----
-
-### 📊 Meus Stats no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuidyTeles&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuidyTeles&layout=compact&theme=tokyonight&locale=pt-br" />
-</p>
-
----
-
-### ✨ Obrigado por visitar meu perfil!
-
-Se curtir meu trabalho ou quiser trocar ideia, não hesita em me chamar! Vamos criar coisas incríveis juntos 🚀
+[LinkedIn · Luidy Teles](https://www.linkedin.com/in/luidy-teles/)
