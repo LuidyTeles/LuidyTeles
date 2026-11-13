@@ -10,6 +10,8 @@ Curso Engenharia de Software na Universidade Cruzeiro do Sul. Minha experiência
 
 ### Plataforma interna de gestão de e-commerce
 
+[**Abrir a demo de pedidos e margem**](https://luidy-demo-operacao-commerce.headyember128.chatgpt.site) · Explore pedidos fictícios por canal e simule como frete, comissão e outros custos afetam a margem.
+
 Desenvolvi uma plataforma para centralizar a análise da operação no Mercado Livre, Shopee, TikTok Shop e loja própria. A solução conecta dados de pedidos, produtos e estoque e automatiza cálculos de margem, frete e comissões para apoiar decisões de precificação e rentabilidade.
 
 **Tecnologias:** JavaScript, Node.js, Express, PostgreSQL e integrações com ERP e canais de venda.
